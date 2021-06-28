@@ -339,7 +339,10 @@ Storage = {
 			TheDukeOfTheDepthsAchiev = 50189,
 			TheBaronFromBelowAchiev = 50190,
 			LastAchievement = 50191
-		}
+		},
+		wz5Room = 50192,
+        wz4Room = 50193,
+        wz6Room = 50194
 	},
 	CultsOfTibia = {
 		-- Reserved storage from 50200 - 50269
@@ -2266,11 +2269,6 @@ Storage = {
 GlobalStorage = {
 	DangerousDepths = {
 		-- Reserved storage from 60001 - 60009
-		Geodes = {
-			WarzoneVI = 60001,
-			WarzoneV = 60002,
-			WarzoneIV = 60003
-		}
 	},
 	TheirMastersVoice = {
 		-- Reserved storage from 60010 - 60019
